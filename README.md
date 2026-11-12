@@ -43,4 +43,4 @@ O efeito das variações de raio e temperatura na absorção de CO₂ diminui à
 - `figuras_relatorio/`: figuras do relatório.
 - `relatorio/`: relatório final em PDF.
 
-> Os parâmetros de referência (corretos) são os do [TCC](https://github.com/emanuelpintosampaio/TCC).
+> Os parâmetros de referência são os do [TCC](https://github.com/emanuelpintosampaio/TCC).
